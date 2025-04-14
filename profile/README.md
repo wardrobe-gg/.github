@@ -1,4 +1,4 @@
-![Logo](https://cdn.wardrobe.gg/assets/GithubHeader.png)
+![Logo](https://cdn.wardrobe.gg/assets/header.png)
 
 # Hey, we're Wardrobe 👋👋
 
